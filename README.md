@@ -21,7 +21,9 @@ Installing (Tested on Kali Linux, Termux & Ubuntu):
 
 git clone https://github.com/IvaanetPT/GhostLink-2.0.git
 
-cd GhostMask bash GhostMask.sh
+cd GhostMask 
+
+bash GhostMask.sh
 
 Detailed Article:
 
