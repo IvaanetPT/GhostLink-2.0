@@ -19,7 +19,9 @@ Usage of GhostMask for attacking targets without prior mutual consent is illegal
 
 Installing (Tested on Kali Linux, Termux & Ubuntu):
 
-git clone https://github.com/jaykali/maskphish cd GhostMask bash GhostMask.sh
+git clone https://github.com/IvaanetPT/GhostLink-2.0.git
+
+cd GhostMask bash GhostMask.sh
 
 Detailed Article:
 
